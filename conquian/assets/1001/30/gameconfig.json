@@ -1,7 +1,7 @@
 {
     "channelId": 1,
     "appId": 1001,
-    "updateUrl": "https://cdn3.ocelotegame.com/assets/source/2851/",
+    "updateUrl": "https://cdn3.ocelotegame.com/assets/source/2931/",
     "accountUrl": "https://www.ocelotegame.com/delete_conform.html",
     "loginUrl": "https://login.ocelotegame.com/user/user_login",
     "privacyPolicy": "https://policy.ocelotegame.com",
@@ -14,6 +14,6 @@
     "version":{
         "appMinSupportVersionBuild": 0,
         "appVersionBuild": 0,
-        "luaVersionBuild": 2851
+        "luaVersionBuild": 2931
     }
 }
