@@ -1,0 +1,20 @@
+{
+    "channelId": 1,
+    "appId": 1001,
+    "updateUrl": "",
+    "accountUrl": "https://www.ocelotegame.com/delete_conform.html",
+    "loginUrl": "https://login-pass.ocelotegame.com/user/user_login",
+    "privacyPolicy": "https://policy.ocelotegame.com",
+    "reportUrl": "",
+    "appStateUrl": "https://login-pass.ocelotegame.com/zone/get_app_status",
+    "restoreUrl": "https://login-pass.ocelotegame.com/user/player_restore",
+    "verUrl": "https://cdn3.ocelotegame.com/assets/source/ios/gameversion.json",
+    "switch": {
+        "autoLogin": false
+    },
+    "version":{
+        "appMinSupportVersionBuild": 0,
+        "appVersionBuild": 0,
+        "luaVersionBuild": 3166
+    }
+}
