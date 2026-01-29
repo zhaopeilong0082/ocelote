@@ -10,6 +10,8 @@
     "restoreUrl": "https://login.ocelotegame.com/user/player_restore",
     "verUrl": "https://cdn3.ocelotegame.com/assets/source/ios/gameversion.json",
     "msgUploadUrl": "https://data.ocelotegame.com/game/player/uploadMsg",
+    "imgFileUploadUrl": "https://data.ocelotegame.com/upload/image",
+    "imgUrlUploadUrl": "https://data.ocelotegame.com/upload/imageByUrl",
     "switch": {
         "autoLogin": false
     },

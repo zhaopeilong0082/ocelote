@@ -1,14 +1,17 @@
 {
     "channelId": 1,
     "appId": 1001,
-    "updateUrl": "",
+    "updateUrl": "https://cdn3.ocelotegame.com/assets/source/ios/",
     "accountUrl": "https://www.ocelotegame.com/delete_conform.html",
-    "loginUrl": "https://login-pass.ocelotegame.com/user/user_login",
+    "loginUrl": "https://login.ocelotegame.com/user/user_login",
     "privacyPolicy": "https://policy.ocelotegame.com",
-    "reportUrl": "",
-    "appStateUrl": "https://login-pass.ocelotegame.com/zone/get_app_status",
-    "restoreUrl": "https://login-pass.ocelotegame.com/user/player_restore",
+    "reportUrl": "https://data.ocelotegame.com/game/player/eventLog",
+    "appStateUrl": "https://login.ocelotegame.com/zone/get_app_status",
+    "restoreUrl": "https://login.ocelotegame.com/user/player_restore",
     "verUrl": "https://cdn3.ocelotegame.com/assets/source/ios/gameversion.json",
+    "msgUploadUrl": "https://data.ocelotegame.com/game/player/uploadMsg",
+    "imgFileUploadUrl": "https://data.ocelotegame.com/upload/image",
+    "imgUrlUploadUrl": "https://data.ocelotegame.com/upload/imageByUrl",
     "switch": {
         "autoLogin": false
     },
